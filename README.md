@@ -5,5 +5,5 @@ I am an experienced Data Engineer with 5 years of expertise in cloud infrastruct
 - 🔭 I’m currently working on innovative data processing solutions and infrastructure optimization.
 - 🌱 I’m currently learning advanced machine learning techniques and exploring new data orchestration tools.
 - 💬 Ask me about anything related to cloud platforms, data engineering, and automation.
-- 📫 How to reach me: [Email](mailto:tyagih@uwindsor.ca) | [LinkedIn](https://www.linkedin.com/in/harshiltyagi8/)
+- 📫 How to reach me: [Email](mailto:harshiltyagi5@gmail.com) | [LinkedIn](https://www.linkedin.com/in/harshiltyagi8/)
 - ⚡ Fun fact: I'm an avid traveler and love exploring new cultures and cuisines.
